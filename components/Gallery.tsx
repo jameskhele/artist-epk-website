@@ -9,6 +9,10 @@ const TILES = [
     alt: "Two Story Town — single artwork",
   },
   {
+    src: "/images/cover-levitating-remix.png",
+    alt: "Levitating (Remix) — single artwork",
+  },
+  {
     src: "/images/cover-if-i-had-it-my-way.jpg",
     alt: "If I Had It My Way — single artwork",
   },
